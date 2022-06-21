@@ -1,3 +1,5 @@
+# This is a group shop stocking application that helps retail shop/store crown stock their shops
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -19,6 +21,4 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+* Deployment instructions.
