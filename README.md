@@ -1,4 +1,4 @@
-# This is a group shop stocking application that helps retail shop/store crown stock their shops
+# This is a group shop, stocking application that helps retail shop/store crowd stock their shops
 
 # README
 
