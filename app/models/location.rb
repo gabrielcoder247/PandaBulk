@@ -3,5 +3,5 @@ class Location < ApplicationRecord
     has_many :products, dependent: :destroy
     # has_many :entities, through: :entity_groups, dependent: :destroy
 
-    validates :name, presence: true, length: { minimum: 3 }
+    validates :shopName, presence: true, length: { minimum: 3 }
 end
